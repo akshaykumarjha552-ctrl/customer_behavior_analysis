@@ -176,27 +176,23 @@ The Power BI dashboard provides an interactive summary of customer shopping beha
 ## 📊 Exploratory Data Analysis
 
 <p align="center">
-<img src="Images/image2.png" width="700">
+  <img src="images/image2.png" width="800">
 </p>
 
 <p align="center">
-<img src="Images/image3.png" width="700">
-</p>
-
----
-
-## 📈 Power BI Dashboard
-
-<p align="center">
-<img src="Images/image5.png" width="900">
+  <img src="images/image3.png" width="800">
 </p>
 
 <p align="center">
-<img src="Images/output.png" width="900">
+  <img src="images/image5.jpg" width="900">
 </p>
 
 <p align="center">
-<img src="Images/output4.png" width="900">
+  <img src="images/output.png" width="900">
+</p>
+
+<p align="center">
+  <img src="images/output4.png" width="900">
 </p>
 
 ---
